@@ -11,6 +11,7 @@ Preprocessing: Clean and normalize the data using tools like Pandas and NumPy.
 Model Prediction: Utilize trained machine learning models to estimate traffic volumes.
 
 Visualization: Display the estimations through an intuitive web interface.
+______________________________________
 
 
 ✅ Features
@@ -22,7 +23,7 @@ Lightweight Models for Fast Inference: Employs efficient models for quick predic
 
 User-Friendly Interface: Offers an accessible web interface for users.
 
-
+____________________________________________________________________
 
 🧰 Tech Stack
 Layer	Technologies Used
@@ -31,7 +32,7 @@ Backend	Python, Flask
 Data Preprocessing	Pandas, NumPy
 Frontend	HTML5, CSS3
 Deployment	Docker, Heroku
-
+_________________________________________________________
 
 🧪 Run Locally
 Clone the Repository
@@ -52,7 +53,7 @@ python app.py
 Access the Application:
 Open your browser and navigate to http://127.0.0.1:5000.
 
-
+__________________________________________________
 
 📊 Dataset
 Total Records: Approximately 30,000 traffic data points.
@@ -65,7 +66,7 @@ Trafficelligence/dataset/train
 
 Trafficelligence/dataset/test
 
-
+_____________________________________________________________________
 
 📈 Model Performance
 Accuracy: ~92% on test data.
@@ -74,7 +75,7 @@ Loss: Low, optimized through hyperparameter tuning.
 
 Techniques Used: Transfer Learning, Random Forest, Gradient Boosting.
 
-
+______________________________________________________________________
 
 📂 Project Structure
 pgsql
@@ -94,7 +95,7 @@ Trafficelligence/
 │   └── style.css
 ├── README.md
 └── requirements.txt
-
+_________________________________________________________________________________________________
 
 📄 Context
 Urban areas face challenges with traffic congestion and management. Accurate traffic volume estimation is crucial for:
