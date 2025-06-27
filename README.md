@@ -38,8 +38,7 @@ _________________________________________________________
 🧪 Run Locally
 Clone the Repository
 
-git clone https://github.com/yourusername/Trafficelligence.git
-cd Trafficelligence
+git clone https://github.com/Dhanalakshmi816/Trafficelligence-Avanced-Traffic-Volume-Estimation-With-Machine/edit/main/README.md
 Create a Virtual Environment:
 
 python -m venv venv
